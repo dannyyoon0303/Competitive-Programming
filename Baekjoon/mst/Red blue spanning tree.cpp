@@ -1,4 +1,5 @@
 //MST
+//https://www.acmicpc.net/problem/4792
 #include <iostream>
 #include <algorithm>
 #include <vector>
