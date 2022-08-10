@@ -1,5 +1,6 @@
 //COCI
 //MST & Math
+//https://www.acmicpc.net/problem/2887
 #include <iostream>
 #include <algorithm>
 #include <vector>
