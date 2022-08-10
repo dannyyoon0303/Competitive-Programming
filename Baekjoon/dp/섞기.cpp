@@ -1,4 +1,5 @@
 //bitmask dp
+//https://www.acmicpc.net/problem/1176
 #include <iostream>
 #include <algorithm>
 #include <cmath>
