@@ -1,4 +1,5 @@
 //segment tree beginner
+//https://www.acmicpc.net/problem/11505
 #include <iostream>
 #include <algorithm>
 using namespace std;
