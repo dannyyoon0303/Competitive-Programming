@@ -1,4 +1,4 @@
-//2020 USACO December Gold 3
+//2020 USACO January Gold 3
 //dp, coordinate compression, segment tree, monotonic queue
 #include <iostream>
 #include <algorithm>
